@@ -1162,7 +1162,7 @@ function App() {
             </div>
           </div>
           <div className="mb-6">
-            <h3 className="text-white text-lg font-semibold mb-3">Travel Stats</h3>
+            <h3 className="text-white text-lg font-semibold mb-3">Travel Stats 1</h3>
             <div className="space-y-3">
               <div className="bg-white rounded-xl p-4">
                 <div className="flex justify-between items-center mb-2">
